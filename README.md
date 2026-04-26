@@ -30,7 +30,11 @@ npm install
 npx expo start
 ```
 
-5. Stop project
+5. To run app for testing (android & iOS) scan QR code of terminal on **Expo Go** app
+<img height="400" src="https://github.com/poulamiadhikary/POP-React_Native_Game/blob/main/assets/images/expo-go.jpg"/>
+<img height="400" src="https://github.com/poulamiadhikary/POP-React_Native_Game/blob/main/assets/images/qr-code.png"/>
+
+6. Stop project
 
 ```bash
 CTRL + c
